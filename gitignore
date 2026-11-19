@@ -1,0 +1,17 @@
+# Ambiente virtual (é o que deixa a pasta com GBs)
+venv/
+.venv/
+Lib/
+Scripts/
+pyvenv.cfg
+__pycache__/
+*.pyc
+
+# Modelos e vozes (baixar separado, como explicado no README)
+*.onnx
+*.onnx.json
+*.bin
+*.gguf
+
+# Arquivos pessoais
+meus_apps.json

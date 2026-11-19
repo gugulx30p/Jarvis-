@@ -1,0 +1,9 @@
+numpy
+sounddevice
+ollama
+faster-whisper
+piper-tts
+keyboard
+pillow
+nvidia-cublas-cu12
+nvidia-cudnn-cu12
